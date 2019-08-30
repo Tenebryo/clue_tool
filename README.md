@@ -33,7 +33,7 @@ In order to find all solutions, we query the solver for a solution, add it to a 
 
 # Results and Applications
 
-I have not used this in a game of Clue yet, but I retroactively applied it to the notes I took from the last game I played. It turns out that I figured out what the 3 hidden cards were as early as this solver did. In other words, it failed in the sense that it could calculate the solution any earlier that I would have. This might not be the case for all games of Clue, but it seems unlikely that it will dominate a human player (who may be able to infer extra information from table talk, intuition, etc.). 
+I have not used this in a game of Clue yet, but I retroactively applied it to the notes I took from the last game I played. It turns out that I figured out what the 3 hidden cards were as early as this solver did. In other words, it failed in the sense that it couldn't calculate the solution any earlier that I would have. This might not be the case for all games of Clue, but it seems unlikely that it will dominate a human player (who may be able to infer extra information from table talk, intuition, etc.). 
 
 # Other Thoughts
 
