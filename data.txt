@@ -1,0 +1,34 @@
+mustard plum green peacock scarlett white
+knife candlestick revolver rope lead_pipe wrench
+hall lounge dining_room kitchen ball_room conservatory billiard_room library study
+5
+alice 4
+bob 4
+charlie 3
+david 3
+eve 4
+wrench revolver ball_room study
+guess eve green knife lounge bob unknown
+guess alice mustard revolver lounge bob lounge
+guess david plum revolver study eve unknown
+guess eve green conservatory revolver alice unknown
+guess alice plum wrench conservatory charlie conservatory
+guess charlie mustard revolver conservatory alice unknown
+guess david mustard candlestick lounge bob unknown
+guess bob white candlestick kitchen eve unknown
+guess eve green candlestick billiard_room bob unknown
+guess alice plum rope dining_room bob dining_room
+guess david green rope dining_room bob unknown
+guess bob mustard rope ball_room charlie unknown
+guess charlie green candlestick ball_room alice unknown
+guess david peacock rope lounge bob unknown
+guess eve green rope library bob unknown
+guess alice plum lead_pipe ball_room charlie lead_pipe
+guess david peacock lead_pipe ball_room alice unknown
+guess eve green knife billiard_room david unknown
+guess bob scarlett wrench conservatory charlie unknown
+guess bob scarlett wrench lounge david unknown
+guess david white lead_pipe ball_room eve unknown
+guess alice green kitchen candlestick bob candlestick
+guess charlie green billiard_room lead_pipe none unknown
+accusation eve green wrench billiard_room none unknown
